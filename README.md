@@ -1,7 +1,7 @@
-# BioNLP-2016
-
-## AhmedDoha
+# adixxov Notes
 Keywords: word embeddings, word2vec, biomedical NLP
+
+# BioNLP-2016
 
 Here are the scripts, code and vectors for the ACL BioNLP 2016 workshop paper:
 
